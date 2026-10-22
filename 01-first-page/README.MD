@@ -25,3 +25,8 @@ Open index.html in a browser and click the button.
 - Using console.log() to check when code runs
 - Code outside the click callback runs when the file loads
 - Code inside the click callback runs on each click
+
+- Practicing JavaScript syntax and typing accurately
+- Using quotes, parentheses, semicolons, and curly braces
+- Writing comments with //
+- Using the correct capitalization in console.log()

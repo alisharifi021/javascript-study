@@ -6,5 +6,10 @@ button.addEventListener("click", () => {
   title.classList.add("happy");
   
 console.log("Appointment button pressed!");
+console.log("I clicked the appointment button!");
 });
 console.log("My JavaScript file is connected!");
+// Show today's progress
+console.log("Iunderstand comments!");
+// Practice complete.
+console.log("I can write JavaScript!");
