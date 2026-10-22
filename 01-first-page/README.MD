@@ -21,3 +21,7 @@ Open index.html in a browser and click the button.
 - Handling a click event
 - Changing text and adding a CSS class
 - Checking filenames, spaces, and missing instructions
+
+- Using console.log() to check when code runs
+- Code outside the click callback runs when the file loads
+- Code inside the click callback runs on each click
