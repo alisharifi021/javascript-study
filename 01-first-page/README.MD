@@ -30,3 +30,8 @@ Open index.html in a browser and click the button.
 - Using quotes, parentheses, semicolons, and curly braces
 - Writing comments with //
 - Using the correct capitalization in console.log()
+
+- Declaring variables with const
+- Using variable values in calculations
+- Calculating a result does not change the stored value
+- const prevents reassignment

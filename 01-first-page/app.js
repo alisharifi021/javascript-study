@@ -13,3 +13,7 @@ console.log("My JavaScript file is connected!");
 console.log("Iunderstand comments!");
 // Practice complete.
 console.log("I can write JavaScript!");
+//Variable practice
+const shoePrice = 80;
+console.log(shoePrice + 10);
+console.log(shoePrice);
