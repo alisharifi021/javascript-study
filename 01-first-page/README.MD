@@ -35,3 +35,7 @@ Open index.html in a browser and click the button.
 - Using variable values in calculations
 - Calculating a result does not change the stored value
 - const prevents reassignment
+
+- Using let to reassign a variable
+- Adding to the current value and storing the result
+- Matching variable names exactly
