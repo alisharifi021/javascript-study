@@ -39,3 +39,8 @@ Open index.html in a browser and click the button.
 - Using let to reassign a variable
 - Adding to the current value and storing the result
 - Matching variable names exactly
+
+
+- Reassigning string values with let
+- Printing literal text versus a variable's stored value
+- Understanding that console.log() displays a value without changing it

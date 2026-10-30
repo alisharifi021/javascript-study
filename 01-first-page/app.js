@@ -31,3 +31,10 @@ let savings = 100;
 console.log(savings);
 savings = savings + 20;
 console.log(savings);
+
+
+//Practice displaying and reassigning a string variable.
+let orderStatus = "preparing";
+console.log(orderStatus);
+orderStatus = "ready";
+console.log(orderStatus);
