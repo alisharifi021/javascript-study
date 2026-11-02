@@ -38,3 +38,13 @@ let orderStatus = "preparing";
 console.log(orderStatus);
 orderStatus = "ready";
 console.log(orderStatus);
+
+
+// Game profile: values and data types
+
+const playerName = "Ali";
+let score = 10;
+let isOnline = true;
+console.log(playerName);
+console.log(score);
+console.log(typeof isOnline);

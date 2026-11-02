@@ -44,3 +44,8 @@ Open index.html in a browser and click the button.
 - Reassigning string values with let
 - Printing literal text versus a variable's stored value
 - Understanding that console.log() displays a value without changing it
+
+
+- Identifying string, number, and boolean values
+- Using typeof to check a value's data type
+- Displaying a variable's value versus its data type
