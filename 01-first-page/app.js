@@ -56,3 +56,9 @@ let gameTitle;
 console.log(gameTitle);
 gameTitle = "Space Quest";
 console.log(gameTitle);
+
+//Practice null and its typeof result
+
+let selectedGame = null;
+console.log(selectedGame);
+console.log(typeof selectedGame);

@@ -54,3 +54,7 @@ Open index.html in a browser and click the button.
 
 - A variable declared without an assigned value holds undefined
 - Using let to declare a variable once, then assigning a value later
+
+
+- Using null to represent no selection deliberately
+- Understanding that typeof null returns "object", a historical JavaScript quirk
