@@ -49,3 +49,8 @@ Open index.html in a browser and click the button.
 - Identifying string, number, and boolean values
 - Using typeof to check a value's data type
 - Displaying a variable's value versus its data type
+
+
+
+- A variable declared without an assigned value holds undefined
+- Using let to declare a variable once, then assigning a value later

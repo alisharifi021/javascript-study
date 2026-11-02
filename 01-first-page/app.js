@@ -48,3 +48,11 @@ let isOnline = true;
 console.log(playerName);
 console.log(score);
 console.log(typeof isOnline);
+
+
+// Practice declaring a variable before assigning a value
+
+let gameTitle;
+console.log(gameTitle);
+gameTitle = "Space Quest";
+console.log(gameTitle);
