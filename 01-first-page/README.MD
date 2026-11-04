@@ -58,3 +58,9 @@ Open index.html in a browser and click the button.
 
 - Using null to represent no selection deliberately
 - Understanding that typeof null returns "object", a historical JavaScript quirk
+
+
+- Creating BigInt values with an n suffix
+- Creating unique identifiers with Symbol()
+- Grouping related data in objects using properties and values
+- Using typeof to identify bigint, symbol, and object

@@ -62,3 +62,15 @@ console.log(gameTitle);
 let selectedGame = null;
 console.log(selectedGame);
 console.log(typeof selectedGame);
+
+
+//Data types: Bigint, Symbol, and object
+
+const totalpoints = 500n;
+console.log(typeof totalpoints);
+
+const gameId = Symbol("game");
+console.log(typeof gameId);
+
+const app = {name: "Spotify" , volume: 50 };
+console.log(typeof app);
