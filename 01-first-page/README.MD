@@ -69,3 +69,6 @@ Open index.html in a browser and click the button.
 - Recognizing NaN when a numeric calculation fails
 - Checking for NaN with Number.isNaN()
 - Understanding that typeof NaN returns "number"
+
+- NaN is not equal to itself; use Number.isNaN() to check for it
+- null == undefined is true, while null === undefined is false

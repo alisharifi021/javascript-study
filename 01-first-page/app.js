@@ -80,3 +80,9 @@ console.log(typeof app);
 const results = "apple" * 3;
 console.log(results);
 console.log(Number.isNaN(results));
+
+
+// Special-value comparisons
+console.log(NaN === NaN);       // false
+console.log(null == undefined);  // true
+console.log(null === undefined); // false
