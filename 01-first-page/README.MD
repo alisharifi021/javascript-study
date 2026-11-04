@@ -72,3 +72,9 @@ Open index.html in a browser and click the button.
 
 - NaN is not equal to itself; use Number.isNaN() to check for it
 - null == undefined is true, while null === undefined is false
+
+
+- Using Number() to convert numeric text into a number
+- Using String() to convert a number into text
+- Using Boolean() to convert a value into true or false
+- Displaying converted values and checking their types with typeof

@@ -86,3 +86,17 @@ console.log(Number.isNaN(results));
 console.log(NaN === NaN);       // false
 console.log(null == undefined);  // true
 console.log(null === undefined); // false
+
+// Type conversion: Number, String, and Boolean
+
+const minutes = Number("30");
+console.log(minutes);
+console.log(typeof minutes);
+
+const livesText = String(9);
+console.log(livesText);
+console.log(typeof livesText);
+
+const hasEnergy = Boolean(5);
+console.log(hasEnergy);
+console.log(typeof hasEnergy);
