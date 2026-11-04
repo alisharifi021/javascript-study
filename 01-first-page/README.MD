@@ -64,3 +64,8 @@ Open index.html in a browser and click the button.
 - Creating unique identifiers with Symbol()
 - Grouping related data in objects using properties and values
 - Using typeof to identify bigint, symbol, and object
+
+
+- Recognizing NaN when a numeric calculation fails
+- Checking for NaN with Number.isNaN()
+- Understanding that typeof NaN returns "number"

@@ -74,3 +74,9 @@ console.log(typeof gameId);
 
 const app = {name: "Spotify" , volume: 50 };
 console.log(typeof app);
+
+//Practice NaN and Number.isNaN()
+
+const results = "apple" * 3;
+console.log(results);
+console.log(Number.isNaN(results));
